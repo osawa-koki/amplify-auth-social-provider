@@ -1,10 +1,10 @@
 {
   "version": "1",
   "cognitoConfig": {
-    "identityPoolName": "amplifyauthsp84d3f9c4_identitypool_84d3f9c4",
+    "identityPoolName": "amplifyauthsp520b88c6_identitypool_520b88c6",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "amplif84d3f9c4",
-    "userPoolName": "amplifyauthsp84d3f9c4_userpool_84d3f9c4",
+    "resourceNameTruncated": "amplif520b88c6",
+    "userPoolName": "amplifyauthsp520b88c6_userpool_520b88c6",
     "autoVerifiedAttributes": [
       "email"
     ],
@@ -31,22 +31,22 @@
     "userpoolClientReadAttributes": [
       "email"
     ],
-    "userpoolClientLambdaRole": "amplif84d3f9c4_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "amplif520b88c6_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "84d3f9c4",
-    "resourceName": "amplifyauthsp84d3f9c4",
+    "sharedId": "520b88c6",
+    "resourceName": "amplifyauthsp520b88c6",
     "authSelections": "identityPoolAndUserPool",
     "useDefault": "defaultSocial",
     "hostedUI": true,
     "usernameAttributes": [
       "email"
     ],
-    "hostedUIDomainName": "amplifyauthsp",
+    "hostedUIDomainName": "amplifyauthspprod",
     "authProvidersUserPool": [
       "Google"
     ],
     "hostedUIProviderMeta": "[{\"ProviderName\":\"Google\",\"authorize_scopes\":\"openid email profile\",\"AttributeMapping\":{\"email\":\"email\",\"username\":\"sub\"}}]",
-    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"https://dev.deejfwc7efgi3.amplifyapp.com/auth/\"],\"LogoutURLs\":[\"https://dev.deejfwc7efgi3.amplifyapp.com/\"]}",
+    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"https://prod.deejfwc7efgi3.amplifyapp.com/auth/\"],\"LogoutURLs\":[\"https://prod.deejfwc7efgi3.amplifyapp.com/\"]}",
     "userPoolGroupList": [],
     "serviceName": "Cognito",
     "usernameCaseSensitive": false,
