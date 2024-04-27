@@ -50,7 +50,7 @@ export default function RootLayout ({
       <body>
         <div id="Wrapper">
           <Authenticator.Provider>
-            <Authenticator signUpAttributes={['email', 'name']}>
+            <Authenticator signUpAttributes={['email', 'name']} socialProviders={['google']}>
               {() => (
                 <>
                   <main>
