@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyauthsp-dev-21207-authRole",
+      "UnauthRoleArn": "arn:aws:iam::938385028059:role/amplify-amplifyauthsp-dev-21207-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::938385028059:role/amplify-amplifyauthsp-dev-21207-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifyauthsp-dev-21207-deployment",
+      "UnauthRoleName": "amplify-amplifyauthsp-dev-21207-unauthRole",
+      "StackName": "amplify-amplifyauthsp-dev-21207",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:938385028059:stack/amplify-amplifyauthsp-dev-21207/1d931eb0-03f0-11ef-99b5-06d801452891",
+      "AmplifyAppId": "deejfwc7efgi3"
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyauthsp-prod-21440-authRole",
+      "UnauthRoleArn": "arn:aws:iam::938385028059:role/amplify-amplifyauthsp-prod-21440-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::938385028059:role/amplify-amplifyauthsp-prod-21440-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifyauthsp-prod-21440-deployment",
+      "UnauthRoleName": "amplify-amplifyauthsp-prod-21440-unauthRole",
+      "StackName": "amplify-amplifyauthsp-prod-21440",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:938385028059:stack/amplify-amplifyauthsp-prod-21440/79794600-03f0-11ef-8adb-068dbe80647d",
+      "AmplifyAppId": "deejfwc7efgi3"
+    }
+  }
+}
