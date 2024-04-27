@@ -2,6 +2,9 @@
 
 🐝🐝🐝 Amplify FrameworkのSocial Providerによる認証処理を実装する！  
 
+[![ci](https://github.com/osawa-koki/amplify-auth-social-provider/actions/workflows/ci.yml/badge.svg)](https://github.com/osawa-koki/amplify-auth-social-provider/actions/workflows/ci.yml)
+[![cd](https://github.com/osawa-koki/amplify-auth-social-provider/actions/workflows/cd.yml/badge.svg)](https://github.com/osawa-koki/amplify-auth-social-provider/actions/workflows/cd.yml)
+
 ![成果物](./fruit.gif)  
 
 ## 準備
