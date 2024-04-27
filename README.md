@@ -44,3 +44,8 @@ GitHub Actionsのシークレット情報として以下の情報を設定して
 | AWS_ACCESS_KEY_ID | AWSのアクセスキー |
 | AWS_SECRET_ACCESS_KEY | AWSのシークレットアクセスキー |
 | AWS_REGION | AWSのリージョン |
+
+---
+
+`https://console.cloud.google.com/apis/credentials`にアクセスして、OAuth 2.0 クライアント IDを作成します。  
+クライアントIDとクライアントシークレットを取得して、`amplify add auth`コマンドの実行時に入力します。  
