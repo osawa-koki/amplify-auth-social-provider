@@ -10,6 +10,14 @@
       "StackName": "amplify-amplifyauthsp-dev-21207",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:938385028059:stack/amplify-amplifyauthsp-dev-21207/1d931eb0-03f0-11ef-99b5-06d801452891",
       "AmplifyAppId": "deejfwc7efgi3"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "deejfwc7efgi3",
+          "type": "manual"
+        }
+      }
     }
   },
   "prod": {
@@ -23,6 +31,14 @@
       "StackName": "amplify-amplifyauthsp-prod-21440",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:938385028059:stack/amplify-amplifyauthsp-prod-21440/79794600-03f0-11ef-8adb-068dbe80647d",
       "AmplifyAppId": "deejfwc7efgi3"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "deejfwc7efgi3",
+          "type": "manual"
+        }
+      }
     }
   }
 }
